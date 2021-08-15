@@ -30,6 +30,7 @@ p {
   line-height: 2;
   font-size: 1.12rem;
 }
+
 hr {
   border-style: none;
   border-top-style: dotted;
@@ -44,9 +45,11 @@ color: #39a9cb;
 font-family: 'Acme', sans-serif;
 text-decoration: none;
 }
+
 a:hover {
   color: #EEDD7C;
 }
+
 .top-container {
   background-color: #e3fdfd;
   Position: relative;
@@ -62,6 +65,7 @@ a:hover {
   background-color: #e3fdfd;
   padding: 50px 0 20px;
 }
+
 .top-cloud {
   position: relative;
   left: 200px;
@@ -78,6 +82,7 @@ a:hover {
   text-align: left;
   line-height: 2;
 }
+
  .Into {
    width: 30%;
    margin: auto;
@@ -101,11 +106,6 @@ a:hover {
   float: right;
 }
 
-.code-skill-description {
-}
-
-.code-skill-decription2 {
-}
 .BUTTON_ZMJ {
    background: #14B9DD;
    background-image: -webkit-linear-gradient(top, #14B9DD, #EEDD7C);
